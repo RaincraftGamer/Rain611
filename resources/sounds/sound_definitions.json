@@ -1,0 +1,49 @@
+//bridge-file-version: #9
+{
+	"mob.tyrannosaurus.idle": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/tyrannosaurus/tyrannosaurus_idle"
+		]
+	},
+	"mob.tyrannosaurus.hurt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/tyrannosaurus/tyrannosaurus_hurt"
+		]
+	},
+	"mob.tyrannosaurus.death": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/tyrannosaurus/tyrannosaurus_death"
+		]
+	},
+	"mob.tyrannosaurus.roar": {
+		"category": "hostile",
+		"sounds": [
+			{
+				"load_on_low_memory": true,
+				"name": "sounds/mob/tyrannosaurus/n word sfx",
+				"volume": 2
+			}
+		]
+	},
+	"mob.stegosaurus.idle": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/stegosaurus/stegosaurus idle"
+		]
+	},
+	"mob.stegosaurus.hurt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/stegosaurus/stegosaurus hurt"
+		]
+	},
+	"mob.stegosaurus.death": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/stegosaurus/stegosaurus death"
+		]
+	}
+}

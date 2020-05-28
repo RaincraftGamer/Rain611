@@ -1,0 +1,43 @@
+//bridge-file-version: #20
+{
+	"resource_pack_name": "vanilla",
+	"texture_name": "atlas.items",
+	"texture_data": {
+		"placeholder": {
+			"textures": "textures/placeholder"
+		},
+		"command staff": {
+			"textures": "textures/items/command staff"
+		},
+		"raw exotic meat": {
+			"textures": "textures/items/exotic meat raw"
+		},
+		"cooked exotic meat": {
+			"textures": "textures/items/exotic meat cooked"
+		},
+		"tyrannosaurus arm": {
+			"textures": "textures/items/tyrannosaurus arm"
+		},
+		"stegosaurus plate": {
+			"textures": "textures/items/stegosaurus plate"
+		},
+		"berry treats": {
+			"textures": "textures/items/berry treats"
+		},
+		"grassy treats": {
+			"textures": "textures/items/grassy treats"
+		},
+		"rooted treats": {
+			"textures": "textures/items/rooted treats"
+		},
+		"leafy treats": {
+			"textures": "textures/items/leafy treats"
+		},
+		"flesh treat": {
+			"textures": "textures/items/flesh treat"
+		},
+		"fish treat": {
+			"textures": "textures/items/fish treat"
+		}
+	}
+}

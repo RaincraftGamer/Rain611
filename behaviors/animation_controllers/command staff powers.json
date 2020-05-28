@@ -1,0 +1,32 @@
+//bridge-file-version: #54
+{
+	"format_version": "1.10.0",
+	"animation_controllers": {
+		"controller.animation.command_staff": {
+			"initial_state": "default",
+			"states": {
+				"default": {
+					"transitions": [
+						{
+							"use": "query.is_using_item && query.is_riding"
+						}
+					]
+				},
+				"use": {
+					"transitions": [
+						{
+							"default": "!query.is_using_item"
+						}
+					],
+					"on_entry": [
+						"@s rift:has_staff",
+						"/function cmd.command_staff"
+					],
+					"on_exit": [
+						"@s rift:has_no_staff"
+					]
+				}
+			}
+		}
+	}
+}
