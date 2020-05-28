@@ -1,0 +1,75 @@
+//bridge-file-version: #21
+{
+	"entity_sounds": {
+		"entities": {
+			"rift:tyrannosaurus": {
+				"volume": 2,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.tyrannosaurus.idle",
+					"hurt": "mob.tyrannosaurus.hurt",
+					"death": "mob.tyrannosaurus.death"
+				}
+			},
+			"rift:stegosaurus": {
+				"volume": 2,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.stegosaurus.idle",
+					"hurt": "mob.stegosaurus.hurt",
+					"death": "mob.stegosaurus.death"
+				}
+			},
+			"rift:tyrannosaurus_roar": {
+				"volume": 2,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"roar": "mob.tyrannosaurus.roar"
+				}
+			},
+			"rift:dodo": {
+				"volume": 2,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.dodo.idle"
+				}
+			},
+			"rift:triceratops": {
+				"volume": 2,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.triceratops.idle",
+					"hurt": "mob.triceratops.hurt",
+					"death": "mob.triceratops.death"
+				}
+			},
+			"rift:utahraptor": {
+				"volume": 2,
+				"pitch": [
+					0.8,
+					1.2
+				],
+				"events": {
+					"ambient": "mob.utahraptor.idle",
+					"hurt": "mob.utahraptor.hurt",
+					"death": "mob.utahraptor.death"
+				}
+			}
+		}
+	}
+}

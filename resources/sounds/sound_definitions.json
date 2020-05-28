@@ -1,0 +1,104 @@
+//bridge-file-version: #22
+{
+	"mob.tyrannosaurus.idle": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/tyrannosaurus/tyrannosaurus_idle"
+		]
+	},
+	"mob.tyrannosaurus.hurt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/tyrannosaurus/tyrannosaurus_hurt"
+		]
+	},
+	"mob.tyrannosaurus.death": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/tyrannosaurus/tyrannosaurus_death"
+		]
+	},
+	"mob.tyrannosaurus.roar": {
+		"category": "hostile",
+		"sounds": [
+			{
+				"name": "sounds/mob/tyrannosaurus/tyrannosaurus_roar",
+				"load_on_low_memory": true
+			}
+		]
+	},
+	"mob.stegosaurus.idle": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/stegosaurus/stegosaurus idle"
+		]
+	},
+	"mob.stegosaurus.hurt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/stegosaurus/stegosaurus hurt"
+		]
+	},
+	"mob.stegosaurus.death": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/stegosaurus/stegosaurus death"
+		]
+	},
+	"mob.dodo.idle": {
+		"category": "neutral",
+		"sounds": [
+			{
+				"name": "sounds/mob/dodo/dodo idle"
+			}
+		]
+	},
+	"mob.triceratops.idle": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/triceratops/triceratops idle"
+		]
+	},
+	"mob.triceratops.hurt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/triceratops/triceratops hurt"
+		]
+	},
+	"mob.triceratops.death": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/triceratops/triceratops death"
+		]
+	},
+	"mob.triceratops.happy": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/triceratops/triceratops happy"
+		]
+	},
+	"mob.utahraptor.idle": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/utahraptor/utahraptor idle"
+		]
+	},
+	"mob.utahraptor.hurt": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/utahraptor/utahraptor hurt"
+		]
+	},
+	"mob.utahraptor.death": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/utahraptor/utahraptor death"
+		]
+	},
+	"mob.utahraptor.call": {
+		"category": "neutral",
+		"sounds": [
+			"sounds/mob/utahraptor/utahraptor call"
+		]
+	}
+}

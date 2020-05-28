@@ -1,0 +1,15 @@
+//bridge-file-version: #5
+{
+	"format_version": "1.13.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "rift:grassy_treat",
+			"category": "Items"
+		},
+		"components": {
+			"minecraft:icon": "grassy treats",
+			"minecraft:use_animation": "eat",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}

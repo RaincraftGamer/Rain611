@@ -1,0 +1,14 @@
+//bridge-file-version: #3
+{
+	"format_version": "1.13.0",
+	"minecraft:item": {
+		"description": {
+			"identifier": "rift:tyrannosaurus_arm",
+			"category": "Items"
+		},
+		"components": {
+			"minecraft:icon": "tyrannosaurus arm",
+			"minecraft:render_offsets": "apple"
+		}
+	}
+}

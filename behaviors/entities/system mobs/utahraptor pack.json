@@ -1,0 +1,37 @@
+//bridge-file-version: #29
+{
+	"format_version": "1.16.0",
+	"minecraft:entity": {
+		"description": {
+			"identifier": "rift:utahraptor_pack",
+			"is_spawnable": true,
+			"is_summonable": false,
+			"is_experimental": false,
+			"animations": {
+				"contSpawn": "controller.animation.utahraptor_pack_spawner"
+			},
+			"scripts": {
+				"animate": [
+					"contSpawn"
+				]
+			}
+		},
+		"components": {
+			"minecraft:physics": {
+				"has_collision": false,
+				"has_gravity": false
+			},
+			"minecraft:fire_immune": true,
+			"minecraft:movement": {
+				"value": 0
+			},
+			"minecraft:collision_box": {
+				"width": 0,
+				"height": 0
+			},
+			"minecraft:is_sheared": {}
+		},
+		"component_groups": {},
+		"events": {}
+	}
+}

@@ -1,0 +1,112 @@
+##bridge-file-version: #60
+
+action.hint.exit.rift:stegosaurus=Jump or sneak to dismount
+action.hint.exit.rift:triceratops=Jump or sneak to dismount
+action.hint.exit.rift:tyrannosaurus=Jump or sneak to dismount
+action.hint.exit.rift:utahraptor=Sneak to dismount
+action.interact.pat_trike=Pat Triceratops
+
+death.attack.anvil=%1$s was squashed by a falling anvil
+death.attack.arrow=%1$s was shot by %2$s
+death.attack.arrow.item=%1$s was shot by %2$s using %3$s
+death.attack.cactus=%1$s touched a cactus and died
+death.attack.cactus.player=%1$s walked into a cactus whilst trying to escape %2$s
+death.attack.drown=%1$s forgot how to swim
+death.attack.drown.player=%1$s forgot to breathe underwater whilst trying to escape %2$s
+death.attack.explosion=%1$s blew up
+death.attack.explosion.player=%1$s was blown up by %2$s
+death.attack.fall=%1$s thought that they could fly
+death.attack.fallingBlock=%1$s was squashed by a falling block
+death.attack.fireball=%1$s was fireballed by %2$s
+death.attack.fireball.item=%1$s was fireballed by %2$s using %3$s
+death.attack.fireworks=%1$s went off with a bang
+death.attack.flyIntoWall=%1$s cracked their skull while trying to glide
+death.attack.generic=%1$s got mysteriously yeeted
+death.attack.indirectMagic=%1$s was killed by %2$s using magic
+death.attack.indirectMagic.item=%1$s was killed by %2$s using %3$s
+death.attack.inFire=%1$s burnt up
+death.attack.inFire.player=%1$s walked into fire whilst fighting %2$s
+death.attack.inWall=%1$s fused with a wall
+death.attack.lava=%1$s confused lava for water
+death.attack.lava.player=%1$s tried to swim in lava to escape %2$s
+death.attack.lightningBolt=%1$s was struck by lightning
+death.attack.magic=%1$s was killed by magic
+death.attack.magma=%1$s thought that they could walk on charcoal like a buddhist monk
+death.attack.magma.player=%1$s walked on danger zone due to %2$s
+death.attack.mob=%1$s was yeeted by %2$s
+death.attack.onFire=%1$s melted
+death.attack.onFire.player=%1$s melted while fighting %2$s
+death.attack.outOfWorld=%1$s learned that the Earth is a dinosaur, and Russia is at the asshole
+death.attack.player=%1$s was slain by %2$s
+death.attack.player.item=%1$s was slain by %2$s using %3$s
+death.attack.starve=%1$s's body got eaten away by their stomach acids
+death.attack.thorns=%1$s pissed off %2$s
+death.attack.thrown=%1$s was pummeled WWE style by %2$s
+death.attack.thrown.item=%1$s was pummeled by %2$s using %3$s
+death.attack.wither=%1$s withered away
+death.fell.accident.generic=%1$s broke their legs and died
+death.fell.accident.ladder=%1$s lost their grip on the ladders
+death.fell.accident.vines=The vines were too slippery for %1$s to climb up...
+death.fell.accident.water=%1$s fell off a waterfall
+death.fell.assist=%1$s was betrayed by %2$s
+death.fell.assist.item=%1$s was doomed to fall by %2$s using %3$s
+death.fell.finish=%1$s fell too far and was finished by %2$s
+death.fell.finish.item=%1$s fell too far and was finished by %2$s using %3$s
+death.fell.killer=%1$s was doomed to fall
+
+deathScreen.message=ded
+deathScreen.quit=Ragequit
+deathScreen.quit.confirm=Are you sure about that?
+
+entity.rift:stegosaurus.name=Stegosaurus
+entity.rift:tyrannosaurus.name=Tyrannosaurus
+entity.rift:dodo.name=Dodo
+entity.rift:triceratops.name=Triceratops
+entity.rift:utahraptor.name=Utahraptor
+
+item.rift:berry_treat.name=Berry Treat
+item.rift:cooked_dodo_meat.name=Cooked Dodo Meat
+item.rift:cooked_exotic_meat.name=Cooked Exotic Meat
+item.rift:fish_treat.name=Fish Treat
+item.rift:flesh_treat.name=Flesh Treat
+item.rift:grassy_treat.name=Grassy Treat
+item.rift:leafy_treat.name=Leafy Treat
+item.rift:raw_dodo_meat.name=Raw Dodo Meat
+item.rift:raw_exotic_meat.name=Raw Exotic Meat
+item.rift:rooted_treat.name=Rooted Treat
+
+item.rift:command_staff.name=Command Staff
+item.rift:harvest_staff.name=Harvest Staff
+
+item.rift:stegosaurus_plate.name=Stegosaurus Plate
+item.rift:tyrannosaurus_arm.name=Tyrannosaurus Arm
+item.rift:trike_horn.name=Triceratops Horn
+item.rift:dodo_beak.name=Dodo Beak
+item.rift:utahraptor_claw.name=Utahraptor Claw
+
+item.spawn_egg.entity.rift:stegosaurus.name=Spawn Stegosaurus
+item.spawn_egg.entity.rift:tyrannosaurus.name=Spawn Tyrannosaurus
+item.spawn_egg.entity.rift:dodo.name=Spawn Dodo
+item.spawn_egg.entity.rift:triceratops.name=Spawn Triceratops
+item.spawn_egg.entity.rift:utahraptor.name=Spawn Utahraptor
+
+howtoplay.info=Intro
+howtoplay.info.title=Intro
+howtoplay.license=License
+howtoplay.license.title=License
+howtoplay.about_me=About Me
+howtoplay.about_me.title=About Me
+
+howtoplay.category.items=Items
+howtoplay.tools=Tools
+howtoplay.tools.title=Tools
+howtoplay.treats=Treats
+howtoplay.treats.title=Treats
+howtoplay.mob_drops=Mob Drops
+howtoplay.mob_drops.title=Mob Drops
+howtoplay.other_recipes=Other Recipes
+howtoplay.other_recipes.title=Other Recipes
+
+howtoplay.category.gameplay=Gameplay
+howtoplay.taming=Taming
+howtoplay.taming.title=Taming
